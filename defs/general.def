@@ -1,0 +1,29 @@
+# Module short name
+MODULEIDNAME       = mimemaillib
+
+# Module version number
+MODULEVERSION      = 1.0.0
+
+# Module release date
+MODULEDATE         = 2003/03/25
+
+# Module long description
+MODULEDESCRIPTION  = MIME email library.
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR       = Sascha Schumann
+MODULE_AUTHOR_EMAIL = sascha@schumann.cx
+MODULE_AUTHOR_SITE  =
+MODULE_SUPPORT_EMAIL    = alex@ampoliros.com
+MODULE_BUGS_EMAIL   = alex@ampoliros.com
+MODULE_COPYRIGHT    =
+MODULE_LICENSE      = GPL
+MODULE_LICENSE_FILE = LICENSE
+MODULE_MAINTAINER   = Alex Pagnoni
+MODULE_MAINTAINER_EMAIL = alex@ampoliros.com
+MODULE_CATEGORY     = libraries
